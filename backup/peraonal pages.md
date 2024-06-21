@@ -49,6 +49,8 @@ https://yingheapp.com/
 ## 普通的学习资源
 missav.com
 jable.tv
+https://www.xvideos.com/
+https://github.com/wpzzz/blocked-sites-in-south-korea/blob/main/list.txt
 
 ## 磁力搜索
 https://iwuqian.top/
