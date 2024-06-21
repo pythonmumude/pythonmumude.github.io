@@ -1,4 +1,3 @@
-
 ## 最全网页GITHUB
 https://github.com/hoochanlon/hamulete/tree/master?tab=readme-ov-file
 
@@ -48,6 +47,8 @@ https://www.inoreader.com/all_articles
 https://yingheapp.com/
 
 ## 普通的学习资源
+missav.com
+jable.tv
 
 ## 磁力搜索
 https://iwuqian.top/
