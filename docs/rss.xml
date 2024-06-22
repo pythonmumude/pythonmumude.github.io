@@ -1,8 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>木木的个人存档</title><link>https://pythonmumude.github.io</link><description>如果那些明亮的人与我相遇，我是否有与之匹配的份量</description><copyright>木木的个人存档</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://images.pexels.com/photos/25740950/pexels-photo-25740950.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=2</url><title>avatar</title><link>https://pythonmumude.github.io</link></image><lastBuildDate>Sat, 22 Jun 2024 03:44:49 +0000</lastBuildDate><managingEditor>木木的个人存档</managingEditor><ttl>60</ttl><webMaster>木木的个人存档</webMaster><item><title>备忘录</title><link>https://pythonmumude.github.io/post/bei-wang-lu.html</link><description>### 记录忘记&#13;
-###  我的一些&#13;
-### NNNNNNNNNNNNNNNN （201205262）&#13;
-###  12132。</description><guid isPermaLink="true">https://pythonmumude.github.io/post/bei-wang-lu.html</guid><pubDate>Fri, 21 Jun 2024 07:08:12 +0000</pubDate></item><item><title>网站建设</title><link>https://pythonmumude.github.io/post/wang-zhan-jian-she.html</link><description>## 图床记录&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>木木的个人存档</title><link>https://pythonmumude.github.io</link><description>如果那些明亮的人与我相遇，我是否有与之匹配的份量</description><copyright>木木的个人存档</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://images.pexels.com/photos/25740950/pexels-photo-25740950.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=2</url><title>avatar</title><link>https://pythonmumude.github.io</link></image><lastBuildDate>Sat, 22 Jun 2024 04:10:43 +0000</lastBuildDate><managingEditor>木木的个人存档</managingEditor><ttl>60</ttl><webMaster>木木的个人存档</webMaster><item><title>备忘录</title><link>https://pythonmumude.github.io/post/bei-wang-lu.html</link><description> ### 记录忘记&#13;
+&#13;
+&lt;!-- ##{'&lt;style&gt;&#13;
+#忘记{&#13;
+    font-size:20px;&#13;
+    border: 1px solid red; /* 这行代码会添加一个红色的方框 */&#13;
+}&#13;
+&lt;/style&gt;'}## --&gt;。</description><guid isPermaLink="true">https://pythonmumude.github.io/post/bei-wang-lu.html</guid><pubDate>Fri, 21 Jun 2024 07:08:12 +0000</pubDate></item><item><title>网站建设</title><link>https://pythonmumude.github.io/post/wang-zhan-jian-she.html</link><description>## 图床记录&#13;
 &#13;
 ### 第一篇&#13;
 ![15fe1b51-0080-11ea-a8c7-83de97b14d54](https://github.com/pythonmumude/pythonmumude.github.io/assets/90365453/f2dca29a-3917-4794-b707-70aded6c3c51)&#13;
